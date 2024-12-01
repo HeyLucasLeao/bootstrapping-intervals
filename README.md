@@ -9,9 +9,10 @@ O objetivo é comparar e analisar a precisão e a aplicabilidade de diferentes m
 ## Métodos de Intervalo de Confiança
 
 1. **Intervalo de Confiança Normal**: Utiliza a distribuição normal para calcular os limites do intervalo de confiança.
-2. **Intervalo de Confiança Percentil**: Baseado nos percentis da distribuição das amostras bootstrap.
-3. **Intervalo de Confiança BCa**: Corrige o viés e a aceleração na distribuição das estimativas bootstrap.
-4. **Intervalo de Confiança t Studentizado**: Ajusta as estimativas bootstrap usando o erro padrão, similar ao t de Student.
+2. **Intervalo de Confiança Básico**: Corrige o viés na distribuição para calcular os limites do intervalo de confiança.
+3. **Intervalo de Confiança Percentil**: Baseado nos percentis da distribuição das amostras bootstrap.
+4. **Intervalo de Confiança BCa**: Corrige o viés e a aceleração na distribuição das estimativas bootstrap.
+5. **Intervalo de Confiança t Studentizado**: Ajusta as estimativas bootstrap usando o erro padrão, similar ao t de Student.
 
 ## Referências
 
