@@ -1,10 +1,10 @@
 # Bootstrapping Intervals
 
-Este projeto é apenas um estudo pessoal sobre diferentes intervalos de confiança utilizando diferentes métodos de bootstrapping. Ele inclui testes para os seguintes intervalos de confiança: normal, percentil, BCa (bias-corrected and accelerated), e t Studentizado.
+Este projeto é um estudo pessoal sobre diferentes intervalos de confiança utilizando métodos de bootstrapping. Ele inclui testes para os seguintes intervalos de confiança: normal,básico, percentil, BCa (bias-corrected and accelerated), e t Studentizado.
 
 ## Objetivo
 
-O objetivo é comparar e analisar a precisão e a aplicabilidade de diferentes métodos de intervalos de confiança bootstrap, também como seus graus de complexidade. 
+O objetivo é comparar e analisar a precisão e a aplicabilidade de diferentes métodos de intervalos de confiança bootstrap, além de avaliar seus graus de complexidade.
 
 ## Métodos de Intervalo de Confiança
 
@@ -19,3 +19,5 @@ O objetivo é comparar e analisar a precisão e a aplicabilidade de diferentes m
 Para uma leitura mais aprofundada sobre intervalos de confiança bootstrap, você pode consultar o seguinte artigo:
 
 - [Bootstrap confidence intervals: A comparative simulation study](https://arxiv.org/html/2404.12967v1)
+
+Os dados utilizados como exemplo podem ser baixados [aqui](https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors).
